@@ -1,5 +1,7 @@
+// To compile the binary in specific directory, bin folder
+// g++ -o ../bin/main main.cpp
 #include<iostream>
-#include<ncurses.h>
+
 int main(){
     std::cout << "Hello, World!\n";
     return 0;
